@@ -1,3 +1,3 @@
-- 주제 : 금융위의사록의 어조와 기준금리와의 상관관계 분석
+- 주제 : 금통위의사록의 어조와 기준금리와의 상관관계 분석
 - 내용 : 경제기사 및 레포트 기반으로 구축 극성사전으로 금융위의사록의 극성을 분석하여 기준금리와 상관관계 도출  
 - 참고논문 : Ki Young Park, Youngjoon Lee, Soohyon Kim (2019). Deciphering Monetary Policy Board Minutes through Text Mining Approach:The Case of Korea
